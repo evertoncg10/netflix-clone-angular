@@ -1,6 +1,8 @@
 .title-item {
   position: relative;
   margin-right: 10px;
+  max-height: 190px;
+  max-width: 340px;
 }
 
 .title-item img {
@@ -77,6 +79,9 @@
   position: absolute;
   right: 10px;
   top: 10px;
+  width: 25px;
+  height: 25px;
+  border: #fff 0px solid;
 }
 
 
@@ -97,12 +102,12 @@
   margin-right: 10px;
 }
 
-.relevance {
+.relevance, .relevance-mobile {
   color: #3fad56;
   font-weight: bold;
 }
 
-.age {
+.age, .age-mobile {
   padding: 2px;
   font-weight: bold;
   display: flex;
@@ -156,6 +161,38 @@
   content: "18";
 }
 
-.parts {
+.parts, .parts-mobile {
   font-weight: bold;
+}
+
+.items-mobile {
+  display:none;
+}
+
+@media (max-width: 802px) {
+  .categories, .age, .parts, .relevance, .title-video {
+    visibility:hidden;
+  }
+
+  .items-mobile {
+    display: block;
+  }
+
+  .parts-mobile, .categories-mobile {
+    color: white;
+  }
+
+  #body-categories-mobile {
+    margin-top: 2px;
+  }
+
+  .title-item .btn-play {
+    position: absolute;
+    top: 10px;
+  }
+
+  .title-video-mobile {
+    color:white;
+    height: 50px;
+  }
 }
