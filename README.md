@@ -2,7 +2,7 @@
 
 <hr/>
 
-![Uploading layout-netflix-clone.jpg…]()
+![layout-netflix-clone](https://user-images.githubusercontent.com/5981130/90171728-4dd77000-dd78-11ea-82ed-664317d0ee6d.jpg)
 
 ## :rocket: Tecnologias utilizadas:
 
