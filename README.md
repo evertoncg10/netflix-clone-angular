@@ -2,7 +2,7 @@
 
 <hr/>
 
-
+![Uploading layout-netflix-clone.jpg…]()
 
 ## :rocket: Tecnologias utilizadas:
 
