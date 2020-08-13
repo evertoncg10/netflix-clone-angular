@@ -3,7 +3,7 @@
 <hr/>
 <h2>Resultado final </h2>
 
-![layout-netflix-clone](https://user-images.githubusercontent.com/5981130/90172067-d6eea700-dd78-11ea-9fa9-ac1c1f4c8532.jpg)
+![layout-netflix-clone](https://user-images.githubusercontent.com/5981130/90182132-df9aa980-dd87-11ea-97c2-37993c5f3172.jpg)
 
 
 ## :rocket: Tecnologias utilizadas:
