@@ -40,8 +40,7 @@ ng serve
 <h4 align="center">
   ---
 
-Made with by Everton Cezar Gonçalves :wave: [Get in touch!](https://www.linkedin.com/in/evertoncezargoncalves/){:target="_blank" rel="noopener"}
-</h4>
+Made with by Everton Cezar Gonçalves :wave: [Get in touch!](https://www.linkedin.com/in/evertoncezargoncalves/)
 <br/>
 
 
