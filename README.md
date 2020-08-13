@@ -1,8 +1,10 @@
 <h2 align="center">:movie_camera: Netflix Clone </h2>
 
 <hr/>
-<h2 align="center">Resultado final </h2>
-![layout-netflix-clone](https://user-images.githubusercontent.com/5981130/90171728-4dd77000-dd78-11ea-82ed-664317d0ee6d.jpg)
+<h2>Resultado final </h2>
+
+![layout-netflix-clone](https://user-images.githubusercontent.com/5981130/90172067-d6eea700-dd78-11ea-9fa9-ac1c1f4c8532.jpg)
+
 
 ## :rocket: Tecnologias utilizadas:
 
