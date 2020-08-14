@@ -12,6 +12,7 @@
 - CSS3;
 - Bootstrap 4;
 - Angular 9;
+- TypeScript;
 
 ## :checkered_flag: Como rodar o Projeto:
 
