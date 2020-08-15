@@ -16,7 +16,7 @@
 
 ## :checkered_flag: Como rodar o Projeto:
 
-Para clonar e executar este aplicativo, você precisará de [Node.js v12.18.3](https://nodejs.org/en/) + [Angular/cli](https://angular.io/cli/) instalado no seu computador. Na sua linha de comando:
+Para clonar e executar este aplicativo, você precisará do [Node.js v12.18.3](https://nodejs.org/en/) e do [Angular/cli](https://angular.io/cli/) instalado no seu computador. Na sua linha de comando:
 
 # Clone o repositório
 
